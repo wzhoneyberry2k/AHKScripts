@@ -1,0 +1,7 @@
+z::
+
+{
+	Click left
+	Return
+	
+}
